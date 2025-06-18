@@ -99,6 +99,7 @@ $tasks = getAllTasks();
     </style>
 </head>
 <body>
+    <p style="color:green;">✨ Task Scheduler Final PR Submission</p>
     <h1>Task Planner</h1>
 
     <!-- Task Input -->
